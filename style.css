@@ -65,6 +65,34 @@ body{
 
 
 .nice{
-  background-color: white
+  background-color: white;
 
+}
+.full{
+  background-color: black;
+}
+.half{
+  background-color: yellow;
+}
+.third{
+  background-color: green;
+}
+.twoth{
+background-color: red;
+}
+.quarter{
+  background-color: blue;
+}
+.eighth{
+  background-color: purple;
+}
+.ns-12{
+  background-color: black;
+}
+.ns-6{
+  background-color: yellow;
+}
+
+.ns-4{
+  background-color: green;
 }
